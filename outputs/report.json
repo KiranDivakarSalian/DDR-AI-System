@@ -1,0 +1,11 @@
+{
+  "Property Issue Summary": [
+    "Dampness",
+    "Cracks",
+    "Seepage"
+  ],
+  "Severity Assessment": {
+    "level": "High",
+    "reason": "Multiple areas affected"
+  }
+}

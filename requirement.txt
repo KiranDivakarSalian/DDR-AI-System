@@ -1,0 +1,9 @@
+pdfplumber
+pymupdf
+pillow
+opencv-python
+numpy
+pandas
+streamlit
+openai
+python-dotenv
